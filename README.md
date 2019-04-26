@@ -1,4 +1,4 @@
-##similarity plugin for elasticsearch 6.3
+## similarity plugin for elasticsearch 6.3
 
 ### 说明
 es的打分算法是由 similarity 模块实现的，自带的similarity 有 bm25(基于tf/idf), dfr, dfi, bi, 等等；  
